@@ -1,4 +1,4 @@
 # projects
 This is my first Git Repository.
 <br>
-Author - Gurneet Kaur
+Author - Gurneet (kaur)
